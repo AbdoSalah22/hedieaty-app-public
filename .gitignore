@@ -51,5 +51,8 @@ android/local.properties
 # Packages
 .pub/
 
+# Firebase
+lib/firebase_options.dart
+
 # Environment Variables
 .env
